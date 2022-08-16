@@ -1,4 +1,4 @@
-package com.arabsoft.file.property;
+package com.arabsoft.file.directory;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

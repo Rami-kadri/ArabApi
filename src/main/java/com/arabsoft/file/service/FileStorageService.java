@@ -1,8 +1,8 @@
 package com.arabsoft.file.service;
 
+import com.arabsoft.file.directory.FileStorageProperties;
 import com.arabsoft.file.exception.FileStorageException;
 import com.arabsoft.file.exception.MyFileNotFoundException;
-import com.arabsoft.file.property.FileStorageProperties;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;
